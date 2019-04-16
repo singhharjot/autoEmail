@@ -1,0 +1,2 @@
+# autoEmail
+Automated email sender
